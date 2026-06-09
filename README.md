@@ -131,12 +131,14 @@ Copie e cole este prompt no DIO Agent:
 
 ```text
 Oi, DIO Agent! Meu nome é...
-Estou fazendo o desafio "Copiloto de Vendas com IA para Atendimento ao Cliente" e quero usar este repositório da FYS como inspiração:
+Estou fazendo o desafio "Copiloto de Vendas com IA para Atendimento ao Cliente"
+e quero usar este repositório da FYS como inspiração:
 
 https://github.com/digitalinnovationone/copiloto-vendas-ia-atendimento-cliente-fys
 
-Pode analisar o repositório e me ajudar a destravar uma ideia simples para o meu projeto?
-Quero entender qual desafio posso explorar, como a IA poderia ajudar e o que eu posso colocar no README da minha entrega.
+Pode analisar esse repo e me ajudar a escolher uma ideia simples para o meu projeto?
+Quero entender qual desafio posso explorar, como a IA poderia ajudar
+e o que eu posso colocar no README da minha entrega.
 Me guie passo a passo, sem fazer o projeto inteiro por mim.
 ```
 
