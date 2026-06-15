@@ -1,6 +1,33 @@
-## 🧩 Prompt Master — Copiloto de Vendas Premium
+## 🤖 Copiloto de Vendas Premium Premium com IA
 
-# Este é o prompt estruturado que define o comportamento da IA como assistente consultivo de vendas para loja de eletrônicos premium.
+# 📌 Qual desafio escolhi
+Desenvolver um **Copiloto de Vendas Premium** para apoiar vendedores e gestores em lojas de eletrônicos de alto padrão.
+
+# 👤 Quem usaria a solução
+- Vendedores de loja premium de eletrônicos.  
+- Gestores comerciais que precisam analisar leads e aumentar conversão.  
+
+# 🎯 Qual problema resolve
+- Dificuldade em conduzir negociações consultivas.  
+- Necessidade de respostas claras e contextualizadas.  
+- Apoio na priorização de clientes e aumento de ticket médio.  
+
+# 🧩 Como a IA ajuda
+- Entende o que o cliente procura.  
+- Sugere produtos e argumentos comerciais.  
+- Responde dúvidas e objeções com empatia.  
+- Propõe próximos passos claros (proposta, demonstração, follow-up).  
+- Gera mensagens prontas para WhatsApp/Telegram.  
+
+# 📚 Base de conhecimento usada
+- Regras de atendimento premium.  
+- Estrutura de análise de clientes (interesse, estágio de compra, perfil, sensibilidade ao preço).  
+- Estratégias comerciais obrigatórias.
+- Testes de oportunidades com a IA.
+- Cenários de teste: Notebook, TV, Celular, Fones.  
+
+## 🧩 Prompt Master — Copiloto de Vendas Premium
+Este é o prompt estruturado que define o comportamento da IA:
 
 ```text
 
@@ -123,20 +150,5 @@ Antes de recomendar qualquer produto, analise:
 ```
 ---
 
-## ✅ O Que Entregar no Projeto Final
 
-No seu próprio repositório, explique:
-
-- Qual desafio você escolheu;
-- Quem usaria sua solução;
-- Qual problema ela resolve;
-- Como a IA ajuda;
-- Qual base de conhecimento foi usada;
-- Um exemplo de conversa, resposta ou análise;
-- Possíveis melhorias futuras.
-
-Você não precisa criar uma aplicação completa. Pode entregar um protótipo, prompt, agente, simulação ou documentação bem organizada.
-
-O importante é mostrar que você entendeu o problema e usou IA para propor algo útil.
-
-Bons estudos e bora tirar a FYS do modo “quem?” para o modo “ah, essa eu conheço” 🚀
+🚀
